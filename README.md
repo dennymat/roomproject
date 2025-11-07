@@ -1,3 +1,5 @@
+<h1>This repo demonstrates issues while migrating a simple room project from KAPT to KSP when using inheritance/generics for Entity.</h1>
+
 Branches:
 
 `main` : This uses KAPT processor. No issues compiling
